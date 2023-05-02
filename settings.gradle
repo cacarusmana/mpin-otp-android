@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "MPIN OTP"
+rootProject.name = "mpinotp-android"
 include ':app'
+include ':mpinotp'

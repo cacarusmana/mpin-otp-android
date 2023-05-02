@@ -1,4 +1,4 @@
-package com.dwidasa.mpinotp
+package com.dwidasa.mpinotpapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
