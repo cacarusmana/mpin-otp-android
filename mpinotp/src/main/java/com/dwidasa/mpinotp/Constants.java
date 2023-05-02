@@ -8,5 +8,5 @@ public final class Constants {
     public static final String SECRET_1_KEY = "S4creTi";
     public static final String SECRET_2_KEY = "$4cr3T2";
     public static final String COUNTER_KEY = "c0unT3R";
-    public static final String PASSWORD = "";
+    public static final String PASSWORD = "tdhCsafJkmSruTq2grA$I5qf$9VWyyzw";
 }
