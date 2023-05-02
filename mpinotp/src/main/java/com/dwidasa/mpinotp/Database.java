@@ -10,7 +10,7 @@ import java.util.Objects;
 public class Database {
 
     private static SharedPreferences getSharedPreferences(Context context) {
-        return context.getSharedPreferences("mpinotpsp", Context.MODE_PRIVATE);
+        return context.getSharedPreferences(Constants.MPIN_OTP_DB_NAME, Context.MODE_PRIVATE);
     }
 
     private static SharedPreferences.Editor getEditor(Context context) {
